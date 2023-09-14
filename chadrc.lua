@@ -1,8 +1,8 @@
 ---@type ChadrcConfig
 local M = {}
 M.ui = {
-  theme = "catppuccin",
-  theme_toggle = { "catppuccin", "one_light" },
+  theme = "palenight",
+  theme_toggle = { "palenight", "one_light" },
   transparency = false,
   nvdash = {
     load_on_startup = true,
